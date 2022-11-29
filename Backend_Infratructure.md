@@ -47,19 +47,30 @@ The core Mastodon service operates via a mesh of micro-services:
 - Horizontally scalable through a Redis cluster configuration
 - Memory-only
 
-### Object Stoage (e.g., S3)
+### Object Storage (e.g., S3)
 - Cached copies of posts from other servers
 - Posts from own server
 - Stores all media
 - Tendency to get a bit large, as any servers' interaction with other servers will result in a data copy/transfer
 
-### ElasticSearch (optiona;)
+### ElasticSearch (optional)
 - For text-based searches of all cached post data
-- Expensive
+- Expensive to operate
+- Basic text search used in lieu of ElasticSearch
 
 
-### Production-ish operations should probably also have the following
+### Production-ish operations should probably have the following
 
+### Nginx Reverse Proxy
+- Sits on top of the HTTPS endpoint
+- Relays requests to:
+  - Static compiled React pages
+  - REST API
+  - Streamer/WebSockets
+- May be horizonta
+
+### HAProxy Forward Proxy
+- 
 
 ## Explainers
 
