@@ -2,6 +2,10 @@
 
 - Updated on 11/28/22
 
+## Disclaimer
+
+- Mastodon is in its beginning phases - and information such as provided below was collected from third parties. The information may be inaccurate, or link to accounts that are mispresenting their identities. So, until the identifications of people vis-a-vis Mastodon profiles is sorted out, caveat emptor.
+
 ## Overview
 
 - For now, Mastodon screen names are being shared through Google Sheet-type documents. These informal lists will likely evolve into something a bit more permanent - or perhaps on a web page or dedicated Mastodon server.
@@ -42,6 +46,11 @@ Source: https://docs.google.com/spreadsheets/d/1egupogzhZgPgcM1NcIxBC4iW2xgvs1qJ
 
 - Mark Elias: @marcelias@mas.to
 - Democracy Docket: @mas.to/@democracydocket
+- Daniel Schuman: @danielschuman@mastodon.social 
+- Tristan Snell: @tristansnell@mstdn.social
+- Justice Seeker: @tizzywoman@mastodon.world
+- Steve Yelvington: @steve@s.yelvington.com
+
 
 ## Media
 
