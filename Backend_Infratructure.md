@@ -70,7 +70,9 @@ The core Mastodon service operates via a mesh of micro-services:
 - May be horizonta
 
 ### HAProxy Forward Proxy
-- 
+- (Final) HTTPs endpoint
+- Load balancer to Nginx
+- WAF implementation
 
 ## Explainers
 
