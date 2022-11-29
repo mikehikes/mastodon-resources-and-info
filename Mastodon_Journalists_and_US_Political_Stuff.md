@@ -1,4 +1,4 @@
-# Mastodon Links and Resources related to US Political Happenings
+# Mastodon Links and Resources of Journalists and US Political Happenings
 
 - Updated on 11/28/22
 
@@ -9,6 +9,8 @@
 ## Congress
 
 ### Congresspersons on Mastodon
+
+WaPo Article: https://www.washingtonpost.com/politics/2022/11/28/democrats-join-twitter-alternative-mastodon-protest-musk/
 
 Source: https://docs.google.com/spreadsheets/d/1egupogzhZgPgcM1NcIxBC4iW2xgvs1qJPAG568YaCuY/edit#gid=1071805829
 
@@ -31,3 +33,16 @@ Source: https://docs.google.com/spreadsheets/d/1egupogzhZgPgcM1NcIxBC4iW2xgvs1qJ
 - @reptroycarter@mastodon.social
 - @CongBoyle@mastodon.world
 - @CongresswomanNorton@Mastodon.social
+
+## Political Scientists
+
+- Site with Political Scientists on Mastodon: https://brentonpeterson.github.io/Mastodon-PoliScientists/
+
+## Personalities and Associations
+
+- Mark Elias: @marcelias@mas.to
+- Democracy Docket: @mas.to/@democracydocket
+
+## Media
+
+- Link to website indicating verfied journalists on Mastodon: https://www.presscheck.org/journalists
