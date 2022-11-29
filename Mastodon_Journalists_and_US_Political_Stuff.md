@@ -54,4 +54,5 @@ Source: https://docs.google.com/spreadsheets/d/1egupogzhZgPgcM1NcIxBC4iW2xgvs1qJ
 
 ## Media
 
+- Mastodon Server with verification to allow only journalists: https://journa.host/
 - Link to website indicating verfied journalists on Mastodon: https://www.presscheck.org/journalists
